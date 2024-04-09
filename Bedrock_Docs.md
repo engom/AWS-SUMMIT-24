@@ -1,4 +1,3 @@
-
 # Resarch & Exploration on AWS Bedrock
 
 ## Amazon Bedrock Retrieval-Augmented Generation (RAG) Workshop
